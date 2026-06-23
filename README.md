@@ -1,6 +1,6 @@
 # Abdoulaye Tangara
 
-[![GitHub]([https://shields.io](https://pngimg.com/uploads/github/github_PNG80.png))]([https://github.com](https://github.com/ABLO1234))
+[![GitHub][[(https://pngimg.com/uploads/github/github_PNG80.png)]([https://github.com](https://github.com/ABLO1234))
 [![Email](https://shields.io)](mailto:abdoulayetangara722@gmail.com)
 
 ## 🎓 Présentation générale
