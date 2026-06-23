@@ -5,7 +5,7 @@
 
 ## 🎓 Présentation générale
 
-Je suis **Abdoulaye Tangara**, Data Scientist et Économiste Quantitative avec plus de 2 ans d'expérience. Actuellement Stagiaire Chargé des études à la **BCEAO** et Consultant Chef de Produit FinTech / IA chez **RobotsMali**. Major de promotion en DUT Statistique, je combine modélisation économétrique, apprentissage automatique et analyse macroéconomique pour guider la prise de décision stratégique.
+Je suis **Abdoulaye Tangara**, Data Scientist et Économiste Quantitative avec plus de 2 ans d'expérience. Actuellement Stagiaire Chargé des études à la **BCEAO** et Consultant Chef de Produit FinTech / IA chez **RobotsMali**. Je combine modélisation économétrique, apprentissage automatique et analyse macroéconomique pour guider la prise de décision stratégique.
 
 ---
 
