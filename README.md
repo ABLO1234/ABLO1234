@@ -1,7 +1,7 @@
 # Abdoulaye Tangara
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ABLO1234/ABLO1234?style=social)
-![Gmail Contact](https://img.shields.io/badge/Email-abdoulaye%40gmail.com-red?logo=gmail)
+![Gmail Contact](https://img.shields.io/badge/Email-abdoulayetangara722%40gmail.com-red?logo=gmail)
 
 
 ## 🎓 Présentation générale
