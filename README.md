@@ -1,6 +1,6 @@
 # Abdoulaye Tangara
 
-### Économiste quantitatif · Data Scientist Comportemental·
+### Économiste quantitatif · Data Scientist · Analyse des risques
 
 Étudiant en **Master 1 Économie comportementale et appliquée (ECA) à l’Université Paris Nanterre** pour l’année 2026–2027, je mobilise l’économétrie, les statistiques et la science des données sur des problématiques économiques, financières et commerciales.
 
